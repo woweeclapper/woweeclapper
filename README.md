@@ -1,6 +1,6 @@
 howdy, I like to code
 
-I write in a few languages but still have a lot to learn.
+I coded in a few languages but still have a lot to learn.
 
 I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.
 
