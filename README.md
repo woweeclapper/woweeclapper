@@ -1,11 +1,10 @@
-howdy, i like to code, these are my projects
+howdy, I like to code
 
-I write in alot of languages,
-C++,
-Java (Processing),
-Javascript,
-HTML/CSS,
-TypeScript,
-Python.
+I write in a few languages but still have a lot to learn.
 
-Still trying to expand my repertoire
+I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.
+
+I'm still expanding into Back End to really become a Full Stack DevOps. 
+
+Courseworks taught me a combination of Java/Python/C++, 
+but in order to really progress, I'm going to focused on developing Java for enterprise level project and Python for small MVPs
