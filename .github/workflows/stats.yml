@@ -1,0 +1,25 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # updates every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        run: |
+          mkdir -p stats
+          curl -o stats/stats.svg "https://github-readme-stats.vercel.app/api?username=woweeclapper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
+
+      - name: Commit and push stats
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "stats/stats.svg"
+          message: "Update GitHub stats"
