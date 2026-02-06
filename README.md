@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I coded in a few languages but still have a lot to learn.<br><br>Started with C++ back in Uni<br><br>Was Then Introduced to Web Development<br><br>Now I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.<br><br>I'm still expanding into Back End to really become a Full Stack Dev. <br><br>Courseworks taught me a combination of Java/Python/C++, <br>but in order to really progress, I'm going to need to focused on further my advancement in one of these languages; Java for enterprise level project and Python for small MVPs and C++/C# for game  and deep microsoft ecosystem integration</p>
+<p align="center">I coded in a few languages but still have a lot to learn.<br><br>Started with C++ back in Uni<br><br>Was Then Introduced to Web Development<br><br>Now I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.<br><br>I'm still expanding into Back End to really become a Full Stack Dev. <br><br>Courseworks taught me a combination of Java/Python/C++, <br>but in order to really progress, I'm going to need to focused on further my advancement in either one of these languages; Java for enterprise level project and C# for game and deep Microsoft ecosystem integration</p>
 
 ###
 
