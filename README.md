@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">I coded in a few languages but still have a lot to learn.<br><br>Started with C++ back in Uni<br><br>Was Then Introduced to Web Development<br><br>Now I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.<br><br>I'm still expanding into Back End to really become a Full Stack Dev. <br><br>Courseworks taught me a combination of Java/Python/C++, <br>but in order to really progress, I'm going to need to focused on further my advancement in either one of these languages; Java will be my main focus for backend, while C# will be my subset to keep in mind if I ever decided to switch to pursue more game development and if legacy system switching to C# as a whole</p>
+<p align="center">I coded in a few languages but still have a lot to learn.<br><br>Started with C++ back in Uni<br><br>Was Then Introduced to Web Development<br><br>Now I'm more Front End focused with JavaScript/TypeScript and HTML/CSS.<br><br>I'm still expanding into Back End to really become a Full Stack Dev. <br><br>Courseworks taught me a combination of Java/Python/C++. <br>I’m focusing on advancing my backend skills in Java, while keeping C# as a secondary language for potential game‑development work or for transitioning into teams that rely on C# for legacy or enterprise systems.</p>
 
 ###
 
