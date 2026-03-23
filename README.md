@@ -54,6 +54,6 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react" alt="Top Langs" />
+  <img src="https://your-vercel-domain.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react&hide=html,css" alt="Top Langs" />
 </div>
 
