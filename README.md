@@ -43,8 +43,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=woweeclapper.woweeclapper&left_color=chocolate&left_text=lurkers"  />
+  <img src="https://github-readme-stats-blond-one-81.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react&hide=html,css" alt="Top Langs" />
 </div>
+
 
 ###
 
@@ -54,6 +55,6 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-blond-one-81.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react&hide=html,css" alt="Top Langs" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=woweeclapper.woweeclapper&left_color=chocolate&left_text=lurkers"  />
 </div>
-
+###
