@@ -54,6 +54,6 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats-blond-one-81.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react" alt="Top Langs" />
+  <img src="https://github-readme-stats-blond-one-81.vercel.app/api/top-langs/?username=woweeclapper&layout=compact&theme=react&hide=html,css" alt="Top Langs" />
 </div>
 
